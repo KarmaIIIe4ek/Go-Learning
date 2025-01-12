@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("я скоро стану космонавтом!")
+	message := "Hello World!"
+	fmt.Println(message)
 }
